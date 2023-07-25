@@ -1,0 +1,13 @@
+.blog {
+  h1 {
+    margin-bottom: 50px;
+  }
+  &__content{
+    &__main{
+      h1{
+      font-size: 25px;
+      }
+      margin-top: 70px;
+    }
+  }
+}
